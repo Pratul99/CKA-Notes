@@ -1,0 +1,5 @@
+- All other k8s component should be either at same version or lower version then kube-apiserver.
+
+But that is not the case with kubectl. It can be at version higher, level or lower then kube-apiserver.
+
+-
